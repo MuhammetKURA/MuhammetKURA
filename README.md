@@ -15,10 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetkura&show_icons=true&locale=en&layout=compact" alt="muhammetkura" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetkura&show_icons=true&locale=en" alt="muhammetkura" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetkura&" alt="muhammetkura" /></p>
-
+<
 
 
 ![snake gif](https://github.com/MuhammetKURA/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
